@@ -1,0 +1,37 @@
+@import url(../../css/fontes.css);
+
+.body{
+	font-family: 'Roboto-Light', sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	color: #333;
+	background-color: #fff;
+}
+
+
+.container{
+	/*padding-right: 15px;
+	padding-left: 15px;
+	*/	
+	padding: 0 15px 0 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.lead{
+	margin-bottom: 20px;
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: 1.4;
+}
+
+.footer-site{
+	background-color: #333;
+	color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
